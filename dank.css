@@ -1,0 +1,17 @@
+body {
+	background-color: violet;
+}
+
+h1 {
+	font-size: 140%
+	font-family: Cursive;
+	color: grey;
+	text-align: center
+}
+ 
+ p {
+ 	font-size: 120%;
+ 	font-family: Lucida;
+ 	color: grey;
+ 	text-align: center
+ }
